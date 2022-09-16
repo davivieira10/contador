@@ -1,7 +1,7 @@
 ## <h1>Contador</h1>
 <h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2> 
 
-Link do projeto -> https://davivieira10.github.io/contador/
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/contador/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
