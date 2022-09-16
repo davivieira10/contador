@@ -1,5 +1,7 @@
 ## <h1>Contador</h1>
-<h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2> 
+<h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2>
+
+<img align="center" alt="Contador" src="">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/contador/)
 
